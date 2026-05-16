@@ -1,6 +1,6 @@
 # Burp Suite Notes
 
-## What I Learned
+## What I Learned:
 - Intercept HTTP requests using Proxy
 - Modify parameters in Repeater
 - Analyze responses for vulnerabilities
